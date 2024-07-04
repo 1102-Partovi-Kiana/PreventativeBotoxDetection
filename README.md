@@ -1,9 +1,8 @@
-# PreventativeBotoxDetection
-Detects moments of confusion/concentration by monitoring forehead. Using advanced facial landmark detection, it provides real-time analysis and notifications. By identifying scrunching habits, it helps prevent wrinkle formation, potentially reducing future Botox and cosmetic needs.
-
-# ForeheadFocus
+# ForeheadFocus: Preventative Botox Detection
 
 **ForeheadFocus** is an innovative application designed to detect moments of confusion or concentration by monitoring the scrunching of the forehead. Utilizing advanced facial landmark detection technology, ForeheadFocus provides real-time analysis and notifications, helping users gain insights into their cognitive states during various activities. By identifying and alerting users to their facial scrunching habits, ForeheadFocus can help prevent the formation of wrinkles, potentially reducing the future need for Botox and other cosmetic interventions.
+
+Detects moments of confusion/concentration by monitoring forehead. Using advanced facial landmark detection, it provides real-time analysis and notifications. By identifying scrunching habits, it helps prevent wrinkle formation, potentially reducing future Botox and cosmetic needs.
 
 ## Features
 - Real-time detection of forehead scrunching.
@@ -15,7 +14,7 @@ Detects moments of confusion/concentration by monitoring forehead. Using advance
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/foreheadfocus.git
+    git clone https://github.com/yourusername/PreventativeBotoxDetection.git
     cd foreheadfocus
     ```
 
@@ -34,7 +33,7 @@ Detects moments of confusion/concentration by monitoring forehead. Using advance
 
 1. **Run the application:**
     ```bash
-    python forehead_focus.py
+    python3 app.py
     ```
 
 2. **Calibration:**
